@@ -1,25 +1,23 @@
 ---
-title: Second blog post update
+title: Second blog post update 2
 date: 2018-10-06T00:00
 description: A short lead description about this content page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
 ---
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+Text can be **bold**, *italic*, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 
 > There should be no margin above this first sentence.
->
+> >
 > Blockquotes should be a lighter gray with a border along the left side in the secondary color.
->
+> >
 > There should be no margin below this final sentence.
 
 ## First Header
 
 This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
@@ -44,9 +42,9 @@ This is a code block following a header.
 
 #### Header 4
 
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
+- This is an unordered list following a header.
 
 ##### Header 5
 
@@ -70,9 +68,9 @@ There's a horizontal rule above and below this.
 
 Here is an unordered list:
 
-* Salt-n-Pepa
-* Bel Biv DeVoe
-* Kid 'N Play
+- Salt-n-Pepa
+- Bel Biv DeVoe
+- Kid 'N Play
 
 And an ordered list:
 
@@ -94,17 +92,17 @@ And a "mixed" task list:
 
 And a nested list:
 
-* Jackson 5
-  * Michael
-  * Tito
-  * Jackie
-  * Marlon
-  * Jermaine
-* TMNT
-  * Leonardo
-  * Michelangelo
-  * Donatello
-  * Raphael
+- Jackson 5
+- Michael
+- Tito
+- Jackie
+- Marlon
+- Jermaine
+- TMNT
+- Leonardo
+- Michelangelo
+- Donatello
+- Raphael
 
 Definition lists can be used with Markdown syntax. Definition terms are bold.
 
@@ -119,7 +117,6 @@ Birthplace
 
 Color
 : Green
-
 
 ----------------
 
@@ -154,7 +151,7 @@ bar := "foo";
 
 Code can also use syntax highlighting.
 
-```go
+```
 func main() {
   input := `var foo = "bar";`
 
@@ -201,7 +198,6 @@ Large images should always scale down and fit in the content container.
 {{< alert type="warning" >}}This is a warning!{{< /alert >}}
 {{< alert type="warning" title="Warning!" >}}This is a warning with a title!{{< /alert >}}
 
-
 ## Sizing
 
 Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
@@ -233,8 +229,6 @@ Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta ch
 ### Used RAM
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-
 
 ```
 This is the final element on the page and there should be no margin below this.
