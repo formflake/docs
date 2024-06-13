@@ -1,6 +1,13 @@
 {
-  "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss-cli": "^11.0.0"
-  }
+	"scripts": {
+		"cms": "node_modules/.bin/esbuild --bundle --minify --outdir=static/admin --platform=browser --format=esm scripts/admin/admin.js"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.4.19",
+		"esbuild": "^0.21.5",
+		"postcss-cli": "^11.0.0"
+	},
+	"dependencies": {
+		"@sveltia/cms": "^0.34.4"
+	}
 }

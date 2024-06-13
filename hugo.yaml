@@ -79,11 +79,12 @@ markup:
 
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
-  section: ["HTML", "print", "RSS"]
+  # section: ["HTML", "print", "RSS"]
+  section: ["HTML", "RSS"]
 
 params:
   pagefind:
-    enabled: true
+    enabled: false
 
   privacy_policy: "https://formflake.com/privacy"
 
