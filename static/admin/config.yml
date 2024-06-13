@@ -1,0 +1,46 @@
+backend:
+  name: github
+  repo: formflake/docs
+  branch: main
+  automatic_deployments: false
+  base_url: "https://formflake-auth.andugo-gmbh.workers.dev"
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: "{{message}}"
+media_folder: "assets/media"
+public_folder: "media"
+publish_mode: editorial_workflow
+site_url: "https://formflake.com/docs"
+collections:
+  - name: "blog"
+    identifier_field: "name"
+    label: "blog"
+    label_singular: "blog"
+    description: "blog"
+    folder: "content/blog"
+    create: true
+    publish: true
+    hide: false
+    delete: false
+    extension: "md"
+    format: "yaml-frontmatter"
+    frontmatter_delimiter: "---"
+    slug: "{{slug}}"
+    preview_path: "blog/{{slug}}"
+    # preview_path_date_field:
+    fields:
+      - name: "title"
+        label: "Title"
+        widget: "string"
+        pattern: [".{20,}", "Must have at least 20 characters"]
+    editor:
+      preview: true
+    # TODO
+    # summary: ""
+    # sortable_fields: ""
+    # view_filters: ""
+    # view_groups: ""
