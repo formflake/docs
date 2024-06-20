@@ -1,5 +1,5 @@
 baseURL: "https://formflake.com/docs"
-title: "formflake docs"
+title: "Formflake docs"
 
 disableHugoGeneratorInject: true
 
@@ -59,8 +59,8 @@ languages:
     # Weight used for sorting.
     weight: 1
     params:
-      title: "formflake docs"
-      # description: "A Docsy example site"
+      title: "Formflake docs"
+      description: "The "
 
 markup:
   goldmark:
@@ -137,7 +137,7 @@ params:
   # User interface configuration
   ui:
     #  Set to true to disable breadcrumb navigation.
-    breadcrumb_disable: false
+    breadcrumb_disable: true
     # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
     navbar_logo: true
     # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
@@ -152,7 +152,7 @@ params:
     # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
     # add "hide_feedback: true" to the page's front matter.
     feedback:
-      enable: true
+      enable: false
       # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
       yes: 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
       no: 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
@@ -166,32 +166,32 @@ params:
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
-      - name: "User mailing list"
-        url: "https://example.org/mail"
-        icon: "fa fa-envelope"
-        desc: "Discussion and help from your fellow users"
-      - name: "Twitter"
-        url: "https://example.org/twitter"
-        icon: "fab fa-twitter"
-        desc: "Follow us on Twitter to get the latest news!"
-      - name: "Stack Overflow"
-        url: "https://example.org/stack"
-        icon: "fab fa-stack-overflow"
-        desc: "Practical questions and curated answers"
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/company/andugo/"
+        icon: "fab fa-linkedin"
+        desc: "Folgt uns auf LinkedIn und erhaltet stets die neuesten Informationen"
+      - name: "GitHub"
+        url: "https://github.com/formflake"
+        icon: "fab fa-git"
+        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
+      - name: "YouTube"
+        url: "https://www.youtube.com/channel/UCzrlzIAskcaNFdJwPggIRMQ"
+        icon: "fab fa-youtube"
+        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/company/andugo/"
+        icon: "fab fa-linkedin"
+        desc: "Folgt uns auf LinkedIn und erhaltet stets die neuesten Informationen"
       - name: "GitHub"
-        url: "https://github.com/formflake/docs"
-        icon: "fab fa-github"
-        desc: "Edit the documentation"
-      - name: "Slack"
-        url: "https://example.org/slack"
-        icon: "fab fa-slack"
-        desc: "Chat with other project developers"
-      - name: "Developer mailing list"
-        url: "https://example.org/mail"
-        icon: "fa fa-envelope"
-        desc: "Discuss development issues around the project"
+        url: "https://github.com/formflake"
+        icon: "fab fa-git"
+        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
+      - name: "YouTube"
+        url: "https://www.youtube.com/channel/UCzrlzIAskcaNFdJwPggIRMQ"
+        icon: "fab fa-youtube"
+        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
 
 privacy:
   disqus:
