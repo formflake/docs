@@ -1,48 +1,48 @@
 ---
-date: 2018-10-06
-title: Easy documentation with Docsy
-linkTitle: Announcing Docsy
+date: 2024-06-20
+title: Unsere formflake docs sind online
+linkTitle: GoLive der formflake docs
 description: >
-  The Docsy Hugo theme lets project maintainers and contributors focus on content,
-  not on reinventing a website infrastructure from scratch
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+  Formflake bietet eine mächtige Suite zum Erstellen und Verwalten von digitalen Formularen für die online Nutzerinteraktion. Wie das funktioniert, welche Tricks ihr kennen solltet und wie schnell ihr dabei seid: Unsere docs verraten es euch.
+author: Dirk Engelbrecht
 resources:
-  - src: "**.{png,jpg}"
+  - src: "docs-intro.jpg"
     title: "Image #:counter"
-    params:
-      byline: "Photo: Riona MacNamara / CC-BY-CA"
 ---
 
-**This is a typical blog post that includes images.**
+## Entdecken Sie die neue Formflake Docs Seite: Deinen ultimativen Leitfaden für erfolgreiche Formular-Erstellung
 
-The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
+Liebe Formflake-Community,
 
-## Including images
+Wir freuen uns, Ihnen unsere brandneue **Formflake Docs Seite** vorzustellen! Unser Ziel ist es, Ihnen die Arbeit mit unserer Plattform so einfach und effizient wie möglich zu gestalten. Mit der Einführung der docs möchten wir sicherstellen, dass Sie alle Vorteile der Suite voll ausschöpfen.
 
-Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
+### Was bietet die Formflake Docs Seite?
 
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
-{{< /imgproc >}}
+#### 1. **Umfassende Anleitung zur Formular-Erstellung**
+Unsere Docs-Seite bietet detaillierte Schritt-für-Schritt-Anleitungen, die dir helfen, das Beste aus unserem Designer herauszuholen. Egal ob du AnfängerIn oder erfahrener BenutzerIn bist, du findest alle notwendigen Informationen, um (komplizierte) Formulare zu erstellen und anzupassen.
 
-The front matter of this post specifies properties to be assigned to all image resources:
+#### 2. **Aktuelle Best Practices und Tipps**
+Bleibt auf dem Laufenden mit den neuesten Best Practices und Tipps zur Formular-Erstellung. Wir teilen regelmäßig wertvolle Einblicke und bewährte Methoden, um sicherzustellen, dass deine Formulare nicht nur funktional, sondern auch effektiv sind.
 
-```
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
-```
+#### 3. **Häufige Probleme und Lösungen**
+Auf der Docs Seite findest du eine umfassende Sammlung von häufig auftretenden Herausforderungen, Wünschen oder sonstigen Anregungen und deren Lösungen. Dieses pragmatische Nachschlagewerk hilft dir, Herausforderungen schnell zu meistern und reibungslos weiterzuarbeiten.
 
-To include the image in a page, specify its details like this:
+#### 4. **Integration und Automatisierung**
+Entdeckt die Optionen zu nahtlosen Integration von formflake-Formularen in deine existierenden Prozesse. Unsere Anleitungen zur Automatisierung sollen die helfen, repetitive Aufgaben zu reduzieren und die Effizienz zu steigern.
 
-```
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
-{{< /imgproc >}}
-```
+### Warum ist die Formflake Docs Seite ein Muss für die Community?
 
-The image will be rendered at the size and byline specified in the front matter.
+Formulare spielen eine entscheidende Rolle in vielen Geschäftsprozessen. Mit der neuen Formflake Docs Seite schaffen wir die Möglichkeit jederzeit auf das Wissen und die Werkzeuge, die zum Erstellen, Verwalten und Analysieren der Formulare notwednig sind, auf das nächste Level zu heben. Optimiere deine Workflows, spare Zeit und verbessere die Qualität der Informationen von und über deine Zielgruppe(n) – all das ist jetzt einfacher als je zuvor.
+
+### Bleibe informiert und erfolgreich!
+
+Besuche jetzt die **[Formflake Docs Seite](/docs/)** und entdecke, wie du deine Formulare weiter optimieren kannst. Abonniere unseren Blog, um keine Updates und Tipps zu verpassen. Lass uns gemeinsam die digitale Zusammenarbeit optimieren!
+
+Vielen Dank, dass du Teil der formflake-Community bist.
+
+Mit besten Grüßen,
+
+Ihr formflake-Team
+
 
 
