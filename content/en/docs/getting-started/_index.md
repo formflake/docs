@@ -1,35 +1,45 @@
 ---
 title: Getting Started
-description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
+description: Eine Schritt-für-Schritt-Anleitung zur Erstellung eures Accounts auf formflake.
+categories: [Account, Signup, Login]
 weight: 2
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+Willkommen! Lass uns gemeinsam den ersten Schritt machen und deinen Account einrichten. Hier findest du eine einfache Anleitung, um loszulegen.
 
-Information in this section helps your user try your project themselves.
+## 1. User-Account mit deiner E-Mail erstellen
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+Um loszulegen, navigiere zur (Signup-Seite)[https://formflake.com/signup]. Gib deinenm Vor- und Nachnamen sowie deine E-Mail Adresse ein und wähle ein Passwort. Mit "Weiter" erhältst du eine E-Mail mit einem Verifizierungscode.
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+## 2. E-Mail verifizieren
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+Öffne die E-Mail und kopiere den Verifizierungscode. Gehe zurück zur Browser-Seite und füge den Code ein. Bestätige mit "Verifizieren" und du wirst auf die Account-Seite weitergeleitet. Dein E-Mail-Konto ist jetzt bestätigt.
 
-## Prerequisites
+## 3. Account einrichten
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+Nun geht es um deinen Account mit dem du und weitere User an den Formularen arbeitest.
 
-## Installation
+Wähle einen Account-Namen ein, der in einen **Slug** übertragen wird. Du kannst deinen Account-Namen zu jeder Zeit wieder ändern. **Der Slug bleibt hingegeben gleich.** Zu jedem Account gibt es eine indexierte Landingpage. Diese und sämtliche Formulare werden auch mit deinem Unternehmens-Slug gebildet. Beispiel:
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+`https://formflake.com/f/`**[account-slug]** ist die Landing Page
 
-## Setup
+`https://formflake.com/f/`**[account-slug]**/[form-slug] entsprechen der Seiten deiner Formulare
 
-Is there any initial setup users need to do after installation to try your project?
+### Persönlicher oder Business Account
 
-## Try it out!
+Du hast die Wahl zwischen einem persönlichen Account oder einem Firmenaccount. Beide Optionen bieten unterschiedliche Vorteile:
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+- **Persönlicher Account:** Ideal für Einzelpersonen, die formflake privat nutzen möchten.
+- **Firmenaccount:** Perfekt für Unternehmen, die mit vielen Usern Formulare und Ergebnisse verwalten und zusätzliche Funktionen nutzen möchten.
+
+Weitere Details zu den Unterschieden findest du im Bereich [Accounts](#).
+
+## 4. Loslegen
+
+That's it! Entdecke jetzt alle Funktionen und Möglichkeiten, die unser Produkt bietet. Viel Spaß und Erfolg!
+
+<br />
+
+---
+
+Bei Fragen stehen wir dir jederzeit zur Verfügung. Schau gerne in unsere anderen Anleitungen oder kontaktiere unser Support-Team.
