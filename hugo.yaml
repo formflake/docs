@@ -4,8 +4,8 @@ title: "Formflake"
 disableHugoGeneratorInject: true
 
 # Language settings
-contentDir: "content/en"
-defaultContentLanguage: "en"
+contentDir: "content/de"
+defaultContentLanguage: "de"
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
@@ -54,13 +54,13 @@ imaging:
 
 # Language configuration
 languages:
-  en:
-    languageName: "English"
-    # Weight used for sorting.
-    weight: 2
-    params:
-      title: "Formflake Documentation and Blog"
-      description: "The "
+  # en:
+  #   languageName: "English"
+  #   # Weight used for sorting.
+  #   weight: 2
+  #   params:
+  #     title: "Formflake Documentation and Blog"
+  #     description: "The "
   de:
     languageName: "German"
     # Weight used for sorting.
