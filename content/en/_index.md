@@ -4,7 +4,7 @@ linkTitle: Home
 aliases:
   # Fixes a broken Home Page link from Gallery pages.
   - /_pages/
-menu: {main: {weight: 20}}
+menu: {main: {weight: 1}}
 type: docs
 weight: 1
 ---

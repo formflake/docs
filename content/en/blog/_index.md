@@ -1,7 +1,7 @@
 ---
 title: Blog
 linkTitle: Blog
-menu: {main: {weight: 30}}
+menu: {main: {weight: 3}}
 type: blog
 weight: 3
 ---

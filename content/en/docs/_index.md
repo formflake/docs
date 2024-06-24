@@ -1,7 +1,7 @@
 ---
 title: Formflake Docs
 linkTitle: Docs
-menu: {main: {weight: 20}}
+menu: {main: {weight: 2}}
 weight: 2
 ---
 
