@@ -184,7 +184,7 @@ params:
       - name: "YouTube"
         url: "https://www.youtube.com/channel/UCzrlzIAskcaNFdJwPggIRMQ"
         icon: "fab fa-youtube"
-        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
+        # desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub" # TODO
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: "LinkedIn"
@@ -198,7 +198,7 @@ params:
       - name: "YouTube"
         url: "https://www.youtube.com/channel/UCzrlzIAskcaNFdJwPggIRMQ"
         icon: "fab fa-youtube"
-        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
+        # desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub" # TODO
 
 privacy:
   disqus:
