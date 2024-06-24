@@ -7,10 +7,13 @@ description: >
 author: Dirk Engelbrecht
 resources:
   - src: "docs-intro.jpg"
-    title: "Image #:counter"
 ---
 
+
 ## Entdecken Sie die neue Formflake Docs Seite: Deinen ultimativen Leitfaden für erfolgreiche Formular-Erstellung
+
+{{< imgproc docs-intro.jpg Fill "600x600" >}}
+{{< /imgproc >}}
 
 Liebe Formflake-Community,
 
@@ -43,6 +46,3 @@ Vielen Dank, dass du Teil der formflake-Community bist.
 Mit besten Grüßen,
 
 Ihr formflake-Team
-
-
-
