@@ -59,15 +59,16 @@ languages:
   #   # Weight used for sorting.
   #   weight: 2
   #   params:
-  #     title: "Formflake Documentation and Blog"
-  #     description: "The "
+  #    title: "formflake | Digital forms for epic results"
+  #    description: "Get answers from your key audience through any digital channel with responive forms by formflake."
   de:
     languageName: "German"
     # Weight used for sorting.
     weight: 1
     params:
-      title: "Formflake Doku und Blog"
-      description: "The "
+      title: "formflake | Schnellere Ergebnisse mit digitalen Formularen"
+      description: "Erreiche deine Zielgruppe überall mit konfigurierbaren, digitalen Formularen von formflake."
+markup:
 
 markup:
   goldmark:
