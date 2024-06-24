@@ -1,6 +1,17 @@
 {{ define "main" -}}
-<div class="td-content">
-	<h1>Not found</h1>
-	<p>Oops! This page doesn't exist. Try going back to the <a href="{{ "" | relURL }}">home page</a>.</p>
+<style>
+	.center-content {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		height: 50vh;
+	}
+</style>
+<div class="td-content center-content">
+	<div class="td-content">
+		<h1>404 Not found</h1>
+		<p>Sorry, This page doesn't exist. Try going back to the <a href="{{ "" | relURL }}">starting page</a>.</p>
+	</div>
 </div>
 {{- end }}

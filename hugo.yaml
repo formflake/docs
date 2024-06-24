@@ -1,11 +1,11 @@
 baseURL: "https://formflake.com/docs"
-title: "Formflake docs"
+title: "Formflake"
 
 disableHugoGeneratorInject: true
 
 # Language settings
-contentDir: "content/en"
-defaultContentLanguage: "en"
+contentDir: "content/de"
+defaultContentLanguage: "de"
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
@@ -37,7 +37,7 @@ params.taxonomy:
   pygmentsCodeFences: true
   pygmentsUseClasses: false
   # Use the new Chroma Go highlighter in Hugo.
-  pygmentsUseClassic: false
+  pygmentsUseClassic: true
   #pygmentsOptions: "linenos=table"
   # See https://help.farbox.com/pygments.html
   pygmentsStyle: "tango"
@@ -54,13 +54,21 @@ imaging:
 
 # Language configuration
 languages:
-  en:
-    languageName: "English"
+  # en:
+  #   languageName: "English"
+  #   # Weight used for sorting.
+  #   weight: 2
+  #   params:
+  #    title: "formflake | Digital forms for epic results"
+  #    description: "Get answers from your key audience through any digital channel with responive forms by formflake."
+  de:
+    languageName: "German"
     # Weight used for sorting.
     weight: 1
     params:
-      title: "Formflake docs"
-      description: "The "
+      title: "formflake | Schnellere Ergebnisse mit digitalen Formularen"
+      description: "Erreiche deine Zielgruppe überall mit konfigurierbaren, digitalen Formularen von formflake."
+markup:
 
 markup:
   goldmark:
@@ -71,7 +79,7 @@ markup:
       unsafe: true
   highlight:
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-    style: "tango"
+    style: "native"
     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: "true"
 
@@ -177,7 +185,7 @@ params:
       - name: "YouTube"
         url: "https://www.youtube.com/channel/UCzrlzIAskcaNFdJwPggIRMQ"
         icon: "fab fa-youtube"
-        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
+        # desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub" # TODO
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: "LinkedIn"
@@ -191,7 +199,7 @@ params:
       - name: "YouTube"
         url: "https://www.youtube.com/channel/UCzrlzIAskcaNFdJwPggIRMQ"
         icon: "fab fa-youtube"
-        desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub"
+        # desc: "Gemeinsam mehr erreichen: Gestaltet und editiert auf GitHub" # TODO
 
 privacy:
   disqus:
