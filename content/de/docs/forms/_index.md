@@ -7,6 +7,7 @@ weight: 3
 
 Diese Seite bezieht sich auf das Erstellen und Konfigurieren von Formularen: [Formular erstellen](https://formflake.com/designer/forms/create).
 
+<!-- TODO don't embed images from the main site, copy them -->
 
 ## 1. Formular erstellen
 
@@ -24,13 +25,13 @@ Der Interne Name ist, wie der Name schon sagt, nur für User deines Accounts zu 
 
 ### 2.2 E-Mail Adresse
 
-Hinterlege je Formular eine **E-Mail-Adresse**, die E-Mails zu abgeschlossenen Formularen erhalten soll. Lässt du das Feld leer wird automatisch die E-Mail-Adresse aus deinem [Account Setup](https://flow.andugo.io/designer/accounts) verwendet, wenn du die [E-Mail Benachrichtigung](#benachrichtigung) aktiviert hast.
+Hinterlege je Formular eine **E-Mail-Adresse**, die E-Mails zu abgeschlossenen Formularen erhalten soll. Lässt du das Feld leer wird automatisch die E-Mail-Adresse aus deinem [Account Setup](https://formflake.com/designer/accounts) verwendet, wenn du die [E-Mail Benachrichtigung](#benachrichtigung) aktiviert hast.
 
 ### 2.3 Einstellungen 
 
 #### 2.3.1 E-Mail-Benachrichtigungen
 
-Verpassen Sie nichts zu Ihrem Formular und aktiviere die E-Mail-Benachrichtigung. Bei jedem erfolgreichen Abschluss eines Formulars wird eine E-Mail verschickt, in der die Antorten des Users zusammengefasst werden. Die Ergebnisse findest du ansonsten über den Bereich [Ergebnisse](https://flow.andugo.io/results).
+Verpassen Sie nichts zu Ihrem Formular und aktiviere die E-Mail-Benachrichtigung. Bei jedem erfolgreichen Abschluss eines Formulars wird eine E-Mail verschickt, in der die Antorten des Users zusammengefasst werden. Die Ergebnisse findest du ansonsten über den Bereich [Ergebnisse](https://formflake.com/results).
 
 Aktiviert = E-Mails werden verschickt
 
@@ -46,9 +47,9 @@ Aktiviert = Formular ist privat
 
 #### 2.3.5 Firmen-Logo auf Frage-Seiten anzeigen
 
-Ist in deinem [Account Setup](https://flow.andugo.io/designer/accounts) ein Logo hinterlegt, kann dieses auf jeder Frage deines Formulars angezeigt werden.
+Ist in deinem [Account Setup](https://formflake.com/designer/accounts) ein Logo hinterlegt, kann dieses auf jeder Frage deines Formulars angezeigt werden.
 
-![Formflake Formulare mit Logo](https://flow.andugo.io/res/info-images/show-logo.svg)
+![Formflake Formulare mit Logo](https://formflake.com/res/info-images/show-logo.svg)
 
 Aktiviert = Logo wird angezeigt
 
@@ -58,7 +59,7 @@ Aktiviert = Logo wird angezeigt
 
 Aktiviere die Option, um den Usern anzuzeigen, wie viele Fragen noch ausstehen bzw. wie viele Fragen bereits erledigt wurden. Die Anzeige erfolgt anhand der Frage-Nummer gegenüber der Gesamtzahl an Fragen des Formulars.
 
-![Formflake Formulare mit Fortschrittsbalken](https://flow.andugo.io/res/info-images/progress-bar.svg)
+![Formflake Formulare mit Fortschrittsbalken](https://formflake.com/res/info-images/progress-bar.svg)
 
 Aktiviert = Fortschrittsbalken wird angezeigt.
 
@@ -68,7 +69,7 @@ Aktiviert = Fortschrittsbalken wird angezeigt.
 
 Beginne dein Formular mit einer eigenen Startseite. Diese Seite zeigt den **Beschreibungstext des Formulars**. Solltest du ein **Bild** am Formular hochgeladen oder ein **Icon** zugewiesen haben, wird auch dieses angezeigt. Der User kann die Fragen mit einem Klick auf "Los geht's" beginnen, das du in der Formularkonfiguration hinzufügen kannst.
 
-![Formflake Formulare mit eigener Startseite](https://flow.andugo.io/res/info-images/starting-page.svg)
+![Formflake Formulare mit eigener Startseite](https://formflake.com/res/info-images/starting-page.svg)
 
 Aktiviert = Startseite wird angezeigt.
 
@@ -82,18 +83,18 @@ Aktiviert = Formular wird auf der Landing-Page angezeigt.
 
 Erlaube das **Einbetten dieses Formulars**, um die Verwendung innerhalb von iframes auf externen Websites zu ermöglichen. Aktiviere den Toggle, so erhältst du eine formular-spezifische URL in folgendem Aufbau:
 
-`https://flow.andugo.io/embed/[formularId]`
+`https://formflake.com/embed/[formularId]`
 
 Diese URL fügen Sie in einem iframe auf einer externen Webseite ein. Beispielhafter Aufbau:
 
-```
+```html
 <div style="width:auto !important;min-width:475px;max-width:1200px;height:915px;">
   <iframe
     sandbox="allow-scripts allow-forms allow-same-origin"
     style="width:100%;height:100%;"
     frameborder="0"
     scrolling="no"
-    src="https://flow.andugo.io/embed/[formularId]"
+    src="https://formflake.com/embed/[formularId]"
   >
   </iframe>
 </div>
