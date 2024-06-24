@@ -37,7 +37,7 @@ params.taxonomy:
   pygmentsCodeFences: true
   pygmentsUseClasses: false
   # Use the new Chroma Go highlighter in Hugo.
-  pygmentsUseClassic: false
+  pygmentsUseClassic: true
   #pygmentsOptions: "linenos=table"
   # See https://help.farbox.com/pygments.html
   pygmentsStyle: "tango"
@@ -78,7 +78,7 @@ markup:
       unsafe: true
   highlight:
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-    style: "tango"
+    style: "native"
     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: "true"
 
