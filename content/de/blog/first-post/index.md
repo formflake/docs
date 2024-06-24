@@ -39,7 +39,7 @@ Formulare spielen eine entscheidende Rolle in vielen Geschäftsprozessen. Mit de
 
 ### Bleibe informiert und erfolgreich!
 
-Besuche jetzt die **[Formflake Docs Seite](/docs/)** und entdecke, wie du deine Formulare weiter optimieren kannst. Abonniere unseren Blog, um keine Updates und Tipps zu verpassen. Lass uns gemeinsam die digitale Zusammenarbeit optimieren!
+Besuche jetzt die **[Formflake Docs Seite](/community/docs/)** und entdecke, wie du deine Formulare weiter optimieren kannst. Abonniere unseren Blog, um keine Updates und Tipps zu verpassen. Lass uns gemeinsam die digitale Zusammenarbeit optimieren!
 
 Vielen Dank, dass du Teil der formflake-Community bist.
 

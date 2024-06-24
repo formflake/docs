@@ -1,4 +1,4 @@
-baseURL: "https://formflake.com/docs"
+baseURL: "https://formflake.com/community"
 title: "Formflake"
 
 disableHugoGeneratorInject: true
@@ -68,7 +68,6 @@ languages:
     params:
       title: "formflake | Schnellere Ergebnisse mit digitalen Formularen"
       description: "Erreiche deine Zielgruppe überall mit konfigurierbaren, digitalen Formularen von formflake."
-markup:
 
 markup:
   goldmark:
@@ -115,7 +114,7 @@ params:
 
   # A link to latest version of the docs. Used in the "version-banner" partial to
   # point people to the main doc site.
-  url_latest_version: "https://docs.formflake.com"
+  url_latest_version: "https://formflake.com/community/"
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_repo: "https://github.com/formflake/docs"

@@ -15,6 +15,6 @@ Entdeckt die umfangreiche **Dokumentation zu formflake** und bleibt mit dem **Bl
 
 Mit **formflake** optimiert ihr das Erfassen von Informationen eurer Zielgruppe(n)! Nutzt dazu das wachstende Portfolio zur Erstellung und Verwaltung **digitalen Formulare**!
 
-[**Zu den Docs**](/docs/docs)
+[**Zu den Docs**](/community/docs)
 
-[**Zum Blog**](/docs/blog)
+[**Zum Blog**](/community/blog)

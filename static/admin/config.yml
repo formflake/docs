@@ -14,7 +14,7 @@ backend:
 media_folder: "assets/media"
 public_folder: "media"
 publish_mode: editorial_workflow
-site_url: "https://formflake.com/docs"
+site_url: "https://formflake.com/community/"
 collections:
   - name: "blog"
     identifier_field: "name"

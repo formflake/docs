@@ -11,7 +11,7 @@ weight: 1
 - **Allgemeines zu Formflake**  
   Erfahren Sie mehr über die Grundlagen und die Kernfunktionen von formflake.
 
-- **[Account erstellen](/docs/docs/getting-started)**  
+- **[Account erstellen](/community/docs/getting-started)**  
   Eine Schritt-für-Schritt-Anleitung zur Erstellung eures Accounts auf formflake.
 
 ### 2. Deep Dives
@@ -19,7 +19,7 @@ weight: 1
 - **Aufbau Flow Designer**  
   Erfahrt alles über den Aufbau von formflakes mächtigem Flow Designer.
 
-- **[Formulare erstellen](/docs/docs/forms)**  
+- **[Formulare erstellen](/community/docs/forms)**  
   So werden Formulare erstellt und und die wesentlichen Einstellungen verwaltet.
 
 - **Fragen und Fragetypen**  
@@ -48,7 +48,7 @@ weight: 1
 
 ## Neuigkeiten und Updates
 
-Bleiben Sie auf dem Laufenden mit den neuesten Entwicklungen und Updates zu formflake. [**Zum Blog**](/docs/blog)
+Bleiben Sie auf dem Laufenden mit den neuesten Entwicklungen und Updates zu formflake. [**Zum Blog**](/community/blog)
 
 ---
 
@@ -56,5 +56,5 @@ Bleiben Sie auf dem Laufenden mit den neuesten Entwicklungen und Updates zu form
 
 Diese Beiträge oder Docs-Seiten könnten dich interessieren:
 
-* [Getting Started](/docs/docs/getting-started/): **Die ersten Schritte** auf formflake
-* [Übersicht zu Formularen](/docs/docs/forms/): Die wesentlichen und wichtigsten **Einstellungen zu formflake Formularen**
+* [Getting Started](/community/docs/getting-started/): **Die ersten Schritte** auf formflake
+* [Übersicht zu Formularen](/community/docs/forms/): Die wesentlichen und wichtigsten **Einstellungen zu formflake Formularen**
