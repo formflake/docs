@@ -1,5 +1,6 @@
 ---
-title: Getting Started
+title: Account erstellen
+linkTitle: Account erstellen
 description: Eine Schritt-für-Schritt-Anleitung zur Erstellung eures Accounts auf formflake.
 categories: [Account, Signup, Login]
 weight: 2

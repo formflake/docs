@@ -1,5 +1,5 @@
 baseURL: "https://formflake.com/docs"
-title: "Formflake docs"
+title: "Formflake"
 
 disableHugoGeneratorInject: true
 
@@ -57,9 +57,16 @@ languages:
   en:
     languageName: "English"
     # Weight used for sorting.
+    weight: 2
+    params:
+      title: "Formflake Documentation and Blog"
+      description: "The "
+  de:
+    languageName: "German"
+    # Weight used for sorting.
     weight: 1
     params:
-      title: "Formflake docs"
+      title: "Formflake Doku und Blog"
       description: "The "
 
 markup:

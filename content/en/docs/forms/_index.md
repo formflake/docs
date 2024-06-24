@@ -1,12 +1,12 @@
 ---
 title: Formulare
+description: Hier erfährst du alles zu den **digitalen Formularen** von formflake.
+categories: [Formulare, Konfiguration, Setup]
 weight: 3
-date: 2024-06-19
-description: Hier erfährst du alles zu den Formularen.
 ---
 
-{{% pageinfo %}}
-Diese Seite bezieht sich auf das Erstellen und Konfigurieren von Formularen: [Formular erstellen](https://formflake.com/designer/forms/create).{{% /pageinfo %}}
+Diese Seite bezieht sich auf das Erstellen und Konfigurieren von Formularen: [Formular erstellen](https://formflake.com/designer/forms/create).
+
 
 ## 1. Formular erstellen
 
