@@ -1,5 +1,6 @@
 baseURL: "https://formflake.com/community"
 title: "Formflake"
+uglyURLs: false
 
 disableHugoGeneratorInject: true
 
