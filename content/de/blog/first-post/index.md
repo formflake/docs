@@ -9,7 +9,6 @@ resources:
   - src: "docs-intro.jpg"
 ---
 
-
 ## Entdecken Sie die neue Formflake Docs Seite: Deinen ultimativen Leitfaden für erfolgreiche Formular-Erstellung
 
 {{< imgproc docs-intro.jpg Fill "600x600" >}}
