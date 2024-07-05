@@ -63,5 +63,3 @@ Vielen Dank, dass ihr Teil der Formflake-Community seid.
 Mit besten Grüßen,
 
 Euer Formflake-Team
-
----
