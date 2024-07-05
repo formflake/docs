@@ -20,19 +20,19 @@ Wir freuen uns, Ihnen unsere brandneue **Formflake Docs Seite** vorzustellen! Un
 
 ### Was bietet die Formflake Docs Seite?
 
-#### 1. Umfassende Anleitung zur Formular-Erstellung
+#### Umfassende Anleitung zur Formular-Erstellung
 
 Unsere Docs-Seite bietet detaillierte Schritt-für-Schritt-Anleitungen, die dir helfen, das Beste aus unserem Designer herauszuholen. Egal ob du AnfängerIn oder erfahrener BenutzerIn bist, du findest alle notwendigen Informationen, um (komplizierte) Formulare zu erstellen und anzupassen.
 
-#### 2. Aktuelle Best Practices und Tipps
+#### Aktuelle Best Practices und Tipps
 
 Bleibt auf dem Laufenden mit den neuesten Best Practices und Tipps zur Formular-Erstellung. Wir teilen regelmäßig wertvolle Einblicke und bewährte Methoden, um sicherzustellen, dass deine Formulare nicht nur funktional, sondern auch effektiv sind.
 
-#### 3. Häufige Probleme und Lösungen
+#### Häufige Probleme und Lösungen
 
 Auf der Docs Seite findest du eine umfassende Sammlung von häufig auftretenden Herausforderungen, Wünschen oder sonstigen Anregungen und deren Lösungen. Dieses pragmatische Nachschlagewerk hilft dir, Herausforderungen schnell zu meistern und reibungslos weiterzuarbeiten.
 
-#### 4. Integration und Automatisierung
+#### Integration und Automatisierung
 
 Entdeckt die Optionen zu nahtlosen Integration von formflake-Formularen in deine existierenden Prozesse. Unsere Anleitungen zur Automatisierung sollen die helfen, repetitive Aufgaben zu reduzieren und die Effizienz zu steigern.
 

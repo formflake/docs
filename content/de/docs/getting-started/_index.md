@@ -10,7 +10,7 @@ Willkommen! Lass uns gemeinsam den ersten Schritt machen und deinen Account einr
 
 ## 1. User-Account mit deiner E-Mail erstellen
 
-Um loszulegen, navigiere zur (Signup-Seite)[https://formflake.com/signup]. Gib deinenm Vor- und Nachnamen sowie deine E-Mail Adresse ein und wähle ein Passwort. Mit "Weiter" erhältst du eine E-Mail mit einem Verifizierungscode.
+Um loszulegen, navigiere zur [Signup-Seite](https://formflake.com/signup). Gib deinenm Vor- und Nachnamen sowie deine E-Mail Adresse ein und wähle ein Passwort. Mit "Weiter" erhältst du eine E-Mail mit einem Verifizierungscode.
 
 ## 2. E-Mail verifizieren
 
@@ -38,8 +38,6 @@ Weitere Details zu den Unterschieden findest du im Bereich [Accounts](#).
 ## 4. Loslegen
 
 That's it! Entdecke jetzt alle Funktionen und Möglichkeiten, die unser Produkt bietet. Viel Spaß und Erfolg!
-
-<br />
 
 ---
 
