@@ -40,6 +40,7 @@ Die Echtzeit-Datenverarbeitung ist besonders in dynamischen Umgebungen von groß
 ## Kosteneinsparungen
 
 ### 5. Langfristige Kosteneinsparungen
+
 Der start mit digitalen Formularen (auf Formflake) ist besonders flexibel und somit kostengünstig. Die Gebühren für die Premium Services sind mühelos durch die kurzfristigen Kosteneinsparungen argumentiert. Hinzu kommen die zusätzliche Daten, die User von sich aus übermitteln. Diese haben für Firmen ganz unterschiedlichen Wert. Dieser steht grunsätzlich noch on top zu den Kosteneinsparungen. Unternehmen können mit effektiver digitaler Nutzerführung und Datensammlung Ressourcen besser nutzen und ihre Rentabilität steigern.
 
 ## Verbesserung der Kundenerfahrung
@@ -56,7 +57,7 @@ Digitale Formulare sind von überall und jederzeit zugänglich. Kunden und Mitar
 
 Die Umstellung auf digitale Formulare bietet zahlreiche Vorteile, die weit über die einfache Digitalisierung hinausgehen. Sie steigern die Effizienz, erhöhen die Abschlussquoten, verbessern die Datenqualität und tragen zur Kundenzufriedenheit bei. Bei Formflake unterstützen wir euch dabei, diese Transformation erfolgreich zu meistern. Nutzt den Designer, um eure Abfragen und eure Nutzer-Interaktion zu digitalisieren und euer Unternehmen fit für die Zukunft zu machen.
 
-Legt direkt los und holt euch euren kostenfreien Account: **[Kostenfreien Account erstellen](https://formflake.com/signup)** 
+Legt direkt los und holt euch euren kostenfreien Account: **[Kostenfreien Account erstellen](https://formflake.com/signup)**
 
 Vielen Dank, dass ihr Teil der Formflake-Community seid.
 
