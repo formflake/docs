@@ -45,11 +45,11 @@ Der start mit digitalen Formularen (auf Formflake) ist besonders flexibel und so
 
 ## Verbesserung der Kundenerfahrung
 
-### 7. Benutzerfreundlichkeit
+### 6. Benutzerfreundlichkeit
 
 Digitale Formulare sind benutzerfreundlicher gestaltet als Papierformulare oder sonstige digitale Umfrage-Dateien (Excel, PDF, ...). Sie begeistern User durch die interaktiven Funktionen und visuellen Highlights. Eine positive Benutzererfahrung führt zu höherer Zufriedenheit, stärkt die Kundenbindung und steigert die Abschlusswahrscheinlichkeit von Interessenten und Interessentinnen.
 
-### 8. Zugänglichkeit und Flexibilität
+### 7. Zugänglichkeit und Flexibilität
 
 Digitale Formulare sind von überall und jederzeit zugänglich. Kunden und Mitarbeiter können Formulare online ausfüllen, unabhängig von ihrem Standort. Speziell bei Formflake haben wir großen Wert auf die Responsiveness der Formulare gelegt. Demnach lassen sich Antworten von jeder Art des Endgeräts einspielen. Diese Flexibilität ist vor allem in einer zunehmend mobilen Welt von großer Bedeutung.
 
