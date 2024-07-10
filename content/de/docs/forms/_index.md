@@ -27,7 +27,7 @@ Der Interne Name ist, wie der Name schon sagt, nur für User deines Accounts zu 
 
 Hinterlege je Formular eine **E-Mail-Adresse**, die E-Mails zu abgeschlossenen Formularen erhalten soll. Lässt du das Feld leer wird automatisch die E-Mail-Adresse aus deinem [Account Setup](https://formflake.com/designer/accounts) verwendet, wenn du die [E-Mail Benachrichtigung](#benachrichtigung) aktiviert hast.
 
-### 2.3 Einstellungen 
+### 2.3 Einstellungen
 
 #### 2.3.1 E-Mail-Benachrichtigungen
 
@@ -143,6 +143,5 @@ Nutze für sensible Formulare oder Einmal-Abfragen **temporär gültige Links**.
 5. Kopiere und teile den Link mit den betroffenen Usern
 
 {{% alert title="Note" %}}Temporäre Links sowie Pins sind **auch für private Formulare** nutzbar. Auf diese Weise müssen User den Link oder Pin kennen, um das Formular zu öffnen.{{% /alert %}}
-
 
 ## 3. Abschlusseite / Ending

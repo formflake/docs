@@ -9,7 +9,7 @@ type: docs
 weight: 1
 ---
 
-**Mit formflake loslegen**
+## Mit formflake loslegen
 
 Entdeckt die umfangreiche **Dokumentation zu formflake** und bleibt mit dem **Blog** auf dem neuesten Stand der Entwicklungen.
 
