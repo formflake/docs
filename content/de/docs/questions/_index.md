@@ -55,7 +55,7 @@ In Summe ist es empfehlenswert, den Prozess der Nutzerführung möglichst benutz
 Ein gut gestaltetes Formular, das Vertrauen schafft und nur die notwendigen Informationen abfragt, kann die Bereitschaft der Nutzer zur Dateneingabe erhöhen und so die Lead-Generierung signifikant verbessern.
 
 {{< imgproc Multiselect.png Fit "350x350" >}}
-Schematisches Bild einer Frage mit **Mehrfachauswahl**.
+Schematisches Bild einer Frage mit Mehrfachauswahl.
 {{< /imgproc >}}
 
 ### 2.2 Kontaktdetails
