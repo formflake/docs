@@ -4,7 +4,7 @@ title: "Unsere formflake docs sind online"
 linkTitle: "GoLive der formflake docs"
 description: >
   Formflake bietet eine mächtige Suite zum Erstellen und Verwalten von digitalen Formularen für die online Nutzerinteraktion. Wie das funktioniert, welche Tricks ihr kennen solltet und wie schnell ihr dabei seid: Unsere docs verraten es euch.
-author: Formflake
+author: "Formflake"
 resources:
   - src: "docs-intro.jpg"
 ---

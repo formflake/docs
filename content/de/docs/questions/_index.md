@@ -27,7 +27,7 @@ Sobald du den Toggle aktivierst, werden die möglichen Ziele des Überspringens 
 
 ### 1.3 Bild zu einer Frage
 
-Du kannst an jeder Frage ein Bild *oder* ein Icon hinzufügen. Dieses Bild wird zwischen der Überschrift der Frage und den Antwortoptionen angezeigt. Wähle über das Auswahlfeld **Layout der Frage**, ob das Bild maximiert oder in originaler Größe angezeigt werden soll. Weitere Layout-Optionen werden kontinuierlich ergänzt. 
+Du kannst an jeder Frage ein Bild *oder* ein Icon hinzufügen. Dieses Bild wird zwischen der Überschrift der Frage und den Antwortoptionen angezeigt. Wähle über das Auswahlfeld **Layout der Frage**, ob das Bild maximiert oder in originaler Größe angezeigt werden soll. Weitere Layout-Optionen werden kontinuierlich ergänzt.
 
 <div class="row gap-3">
 {{< imgproc "Question with image.png" Fit "350x350" >}}
@@ -44,6 +44,7 @@ Layout des maximierten Bildes an einer Frage.
 ### 2.1 Multiselect / Single Select
 
 **Konfiguration**:
+
 * Fragetyp Multiselect; Max. Anzahl der Antworten >== 0 = Multiselect
 * Fragetyp Multiselect; Max. Anzahl der Antworten === 1 = Single Select
 
@@ -65,7 +66,7 @@ Das Abfragen von **Kontaktdetails** lässt sich ideal für Lead-Erfassungsformul
 
 Durch die Erfassung von grundlegenden Informationen wie Name, E-Mail-Adresse und Telefonnummer können Unternehmen Leads dokumentieren und in wenigen Klicks **qualifizieren**. Diese Daten ermöglichen eine personalisierte Kommunikation, die die Kundenbindung stärkt und die Chancen auf eine erfolgreiche Konversion erhöht. Zudem erleichtern vollständige Kontaktdetails die Nachverfolgung und Pflege von Kundenbeziehungen über verschiedene Kanäle hinweg, was zu einer verbesserten **Kundenzufriedenheit** und langfristigen Geschäftserfolgen führt.
 
-Für **Lead-Erfassungsformulare** bietet es sich an, die manuelle Eingabe von Kontaktdetails als Alternative zum Uploads eines Bildes (der Visitenkarte) einzusetzen. Mehr über die Upload-Fragen finden Sie [hier](#upload).
+Für **Lead-Erfassungsformulare** bietet es sich an, die manuelle Eingabe von Kontaktdetails als Alternative zum Uploads eines Bildes (der Visitenkarte) einzusetzen. Mehr über die Upload-Fragen finden Sie [hier](#25-datei-upload).
 
 {{< imgproc "Contact details.png" Fit "350x350" >}}
 Schematisches Bild einer Frage für die Eingabe von Kontaktdetails.
@@ -97,7 +98,7 @@ Dennoch bieten offene Texteingaben einen unschätzbaren Wert für **tiefgehende 
 Schematisches Bild einer Frage für Freitext-Eingaben.
 {{< /imgproc >}}
 
-### 2.5 Datei-Upload <a id="upload"></a>
+### 2.5 Datei-Upload
 
 **Konfiguration**: Fragetyp Multiselect; 1 Antwortoption; Erweiterung: Datei-Upload
 
@@ -108,4 +109,3 @@ Für Unternehmen bedeutet dies eine effizientere Datenerfassung und -verarbeitun
 {{< imgproc "Upload.png" Fit "350x350" >}}
 Schematisches Bild zum hochladen von Dokumenten und Dateien.
 {{< /imgproc >}}
-
